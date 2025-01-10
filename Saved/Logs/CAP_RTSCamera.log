@@ -1395,3 +1395,77 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.10-23.33.41:560][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.10-23.33.41:560][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1403.524170, Update Interval: 306.037170
 [2025.01.10-23.34.44:906][874]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/RTSCamera/Input/Actions/IA_CameraMove.IA_CameraMove
+[2025.01.10-23.34.52:952][693]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/RTSCamera/Input/Actions/IA_DragToMove.IA_DragToMove
+[2025.01.10-23.34.56:358][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-23.34.56:398][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTSCamera/Input/Actions/IA_DragToMove] ([1] browsable assets)...
+[2025.01.10-23.34.56:398][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTSCamera/Input/Actions/IA_DragToMove]
+[2025.01.10-23.34.56:399][ 22]LogSavePackage: Moving output files for package: /Game/RTSCamera/Input/Actions/IA_DragToMove
+[2025.01.10-23.34.56:402][ 22]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Saved/IA_DragToMove110FA3C646B340D644055DA2189A30A1.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Content/RTSCamera/Input/Actions/IA_DragToMove.uasset'
+[2025.01.10-23.34.56:412][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.475 ms (total: 129.057 ms)
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: Enabled validators:
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-23.34.56:457][ 22]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-23.34.56:457][ 22]AssetCheck: /Game/RTSCamera/Input/Actions/IA_DragToMove Validating asset
+[2025.01.10-23.35.15:052][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RTSCamera/Camera/BP_Pawn_RTSCamera.BP_Pawn_RTSCamera
+[2025.01.10-23.35.15:052][223]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.01.10-23.36.26:473][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.10-23.36.27:636][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-23.36.27:677][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTSCamera/Camera/BP_Pawn_RTSCamera] ([2] browsable assets)...
+[2025.01.10-23.36.27:677][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTSCamera/Camera/BP_Pawn_RTSCamera]
+[2025.01.10-23.36.27:696][324]LogSavePackage: Moving output files for package: /Game/RTSCamera/Camera/BP_Pawn_RTSCamera
+[2025.01.10-23.36.27:698][324]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Saved/BP_Pawn_RTSCameraD2F4BA5640D61DEE048AA7B51E828B75.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Content/RTSCamera/Camera/BP_Pawn_RTSCamera.uasset'
+[2025.01.10-23.36.27:707][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.302 ms (total: 199.359 ms)
+[2025.01.10-23.36.27:746][324]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-23.36.27:746][324]LogContentValidation: Enabled validators:
+[2025.01.10-23.36.27:747][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-23.36.27:747][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-23.36.27:747][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-23.36.27:747][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-23.36.27:747][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-23.36.27:747][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-23.36.27:747][324]AssetCheck: /Game/RTSCamera/Camera/BP_Pawn_RTSCamera Validating asset
+[2025.01.10-23.36.37:954][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-23.36.37:988][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTSCamera/Camera/BP_Pawn_RTSCamera] ([2] browsable assets)...
+[2025.01.10-23.36.37:988][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTSCamera/Camera/BP_Pawn_RTSCamera]
+[2025.01.10-23.36.38:006][284]LogSavePackage: Moving output files for package: /Game/RTSCamera/Camera/BP_Pawn_RTSCamera
+[2025.01.10-23.36.38:007][284]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Saved/BP_Pawn_RTSCameraE05443A24F39EAAB693F4A9A6115CA02.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Content/RTSCamera/Camera/BP_Pawn_RTSCamera.uasset'
+[2025.01.10-23.36.38:016][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.038 ms (total: 261.397 ms)
+[2025.01.10-23.36.38:058][284]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-23.36.38:058][284]LogContentValidation: Enabled validators:
+[2025.01.10-23.36.38:058][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-23.36.38:058][284]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-23.36.38:058][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-23.36.38:058][284]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-23.36.38:058][284]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-23.36.38:058][284]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-23.36.38:058][284]AssetCheck: /Game/RTSCamera/Camera/BP_Pawn_RTSCamera Validating asset
+[2025.01.10-23.37.49:744][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.10-23.37.50:652][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-23.37.50:685][514]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTSCamera/Player/BP_PlayerController_RTSCamera] ([2] browsable assets)...
+[2025.01.10-23.37.50:685][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTSCamera/Player/BP_PlayerController_RTSCamera]
+[2025.01.10-23.37.50:705][514]LogSavePackage: Moving output files for package: /Game/RTSCamera/Player/BP_PlayerController_RTSCamera
+[2025.01.10-23.37.50:707][514]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Saved/BP_PlayerController_RTSCamera0CCC95CF44B2A4D79388CD9386353BD8.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Content/RTSCamera/Player/BP_PlayerController_RTSCamera.uasset'
+[2025.01.10-23.37.50:715][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.581 ms (total: 324.979 ms)
+[2025.01.10-23.37.50:755][514]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-23.37.50:755][514]LogContentValidation: Enabled validators:
+[2025.01.10-23.37.50:755][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-23.37.50:755][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-23.37.50:755][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-23.37.50:755][514]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-23.37.50:755][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-23.37.50:755][514]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-23.37.50:755][514]AssetCheck: /Game/RTSCamera/Player/BP_PlayerController_RTSCamera Validating asset
+[2025.01.10-23.39.13:308][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1735.606567
+[2025.01.10-23.39.13:424][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-23.39.13:425][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1735.714478, Update Interval: 326.413757
+[2025.01.10-23.45.19:176][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2101.476318
+[2025.01.10-23.45.20:176][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-23.45.20:177][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2102.142334, Update Interval: 327.657104
+[2025.01.10-23.51.32:181][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2474.482666
+[2025.01.10-23.51.33:182][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-23.51.33:182][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2475.149658, Update Interval: 325.391998
