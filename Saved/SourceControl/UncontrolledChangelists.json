@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/LukeT/CAP_RTSCamera/Content/RTSCamera/Camera/BP_Pawn_RTSCamera.uasset",
+				"D:/Github/LukeT/CAP_RTSCamera/Content/RTSCamera/Player/BP_PlayerController_RTSCamera.uasset",
+				"D:/Github/LukeT/CAP_RTSCamera/Content/RTSCamera/Camera/C_CameraZoom.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Content/__ExternalActors__/RTSCamera/Maps/TopDownMap/6/TX/59B2WUNSE1YB5990E8E41W.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_RTSCamera/Content/__ExternalObjects__/RTSCamera/Maps/TopDownMap/A/XL/256523PXS0ARVOUNY08S6S.uasset",
